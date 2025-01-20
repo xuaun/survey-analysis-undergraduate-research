@@ -21,7 +21,7 @@ This research was approved by the Brazilian research ethics committee (REC), gua
  To access the materials published in these works, access the respective paths for these works in this repository.
 
  ## Reference materials
-If you are interested in learning about the ["Escala de Ansiedade à Matemática - EAM (or, in English: Mathematics Anxiety Scale)"](https://repositorio.ufscar.br/bitstream/handle/ufscar/8416/TeseACM.pdf?sequence=1&isAllowed=y), or its [translated version into Brazilian Sign Language (Libras)](https://repositorio.ufscar.br/handle/ufscar/14164?show=full), feel free to access these links in Portuguese for that purpose.
+If you are interested in learning about the ["Escala de Ansiedade à Matemática - EAM (or, in English: Math Anxiety Scale)"](https://repositorio.ufscar.br/bitstream/handle/ufscar/8416/TeseACM.pdf?sequence=1&isAllowed=y), or its [translated version into Brazilian Sign Language (Libras)](https://repositorio.ufscar.br/handle/ufscar/14164?show=full), feel free to access these links in Portuguese for that purpose.
   
   ## Technologies used
  In these projects, the ```R``` statistical programming language and ```Jupyter Notebooks``` were used to access and document the codes.
